@@ -5,7 +5,7 @@
         "phpunit/phpunit": "~4.4"
     },
     "require": {
-        "aydin-hassan/magento-core-composer-installer" : "~1.0",
+        "aydin-hassan/magento-core-composer-installer" : "~1.0"
     },
     "authors": [
         {
