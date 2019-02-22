@@ -6,7 +6,6 @@
     },
     "require": {
         "aydin-hassan/magento-core-composer-installer" : "~1.0",
-        "astral/magento":"1.14.4.0"
     },
     "authors": [
         {
