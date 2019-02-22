@@ -1,6 +1,8 @@
 .git/*
 .htaccess
 .htaccess.sample
+.idea
+.idea/*
 api.php
 app/.htaccess
 app/bootstrap.php
