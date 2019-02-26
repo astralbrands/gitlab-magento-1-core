@@ -2,7 +2,7 @@
     "name": "astral/magento1",
     "description": "Magento build for Astral Brands",
     "require-dev": {
-        "phpunit/phpunit": "~4.4"
+
     },
     "require": {
         
