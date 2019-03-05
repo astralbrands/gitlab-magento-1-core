@@ -13,10 +13,6 @@
 		{
         "type": "vcs",
         "url": "git@github.com:AydinHassan/magento-community.git"
-		},	
-	    {
-            "type": "vcs",
-            "url": "git@git.astralbrands.com:AstralBrands/magento-1-core.git"
-        }
+		}
 	]	
 }
