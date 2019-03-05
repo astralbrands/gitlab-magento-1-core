@@ -1,22 +1,6 @@
 {
     "name": "astral/magento1",
-    "description": "Magento build for Astral Brands",
-    "require-dev": {
-
-    },
-    "require": {
-        
-    },
-    "authors": [
-        {
-            "name": "Ralph Smith",
-            "email": "rsmith@astralbrands.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@git.astralbrands.com:AstralBrands/magento-1-core.git"
-        }
-    ]
+    "type": "magento-core",
+    "license": ["OSL-3.0", "AFL-3.0"],
+    "description": "Magento EE"
 }
